@@ -1,6 +1,7 @@
 ---
 layout: page
 title: カンボジア
+parent: kyoto
 nav_order: 3
 ---
 
