@@ -1,6 +1,6 @@
 ---
 layout: page
-title: history
+title: カンボジア
 nav_order: 3
 ---
 
@@ -15,6 +15,5 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 <b>tama</b>
-
 
 [jekyll-organization]: https://github.com/jekyll
